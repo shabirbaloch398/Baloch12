@@ -1,4 +1,3 @@
-# Baloch12
 #Bismillah
 #Assalamu-Alaikium
 
@@ -24,16 +23,16 @@
   
     git clone https://github.com/shabirbaloch398/Baloch12.git
 
-    cd Termux-Login
+    cd Baloch12
 
-    mv README.md log.py /$HOME
+    mv README.md Kat.py /$HOME
 
     Now you want autorun this log.py so follow this
 
     cd ..
     cd usr/etc/
     nano bash.bashrc
-    (here type) python log.py
+    (here type) python Kat.py
 
     press ctrl + x and then y to save.
 
